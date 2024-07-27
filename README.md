@@ -18,13 +18,14 @@ The system aims to ensure the safety of pets by providing real-time location tra
 ![image](https://github.com/user-attachments/assets/d282a2e1-c4a7-4365-8be1-156b14395a52) 
 
 ### Software Details
-**Arduino IDE**: Used to program the ESP32 board and run AT commands on the AI Thinker A9G​. [click here](https://www.arduino.cc/en/software)
-**Traccar Server & Dashboard**: Utilized for real-time visualization of GPS data on maps. It provides a user-friendly interface to monitor the pet's location​​. [click here](https://www.traccar.org/server/).
-**Coolwatcher**: follow [link](https://ai-thinker-open.github.io/GPRS_C_SDK_DOC/en/c-sdk/burn-debug.html) to install and run commands on the board. Download **coolwatcher.exe** from the cooltools SDK.
+- **Arduino IDE**: Used to program the ESP32 board and run AT commands on the AI Thinker A9G​. [click here](https://www.arduino.cc/en/software)
+- **Traccar Server & Dashboard**: Utilized for real-time visualization of GPS data on maps. It provides a user-friendly interface to monitor the pet's location​​. [click here](https://www.traccar.org/server/).
+- **Coolwatcher**: follow [link](https://ai-thinker-open.github.io/GPRS_C_SDK_DOC/en/c-sdk/burn-debug.html) to install and run commands on the board. Download **coolwatcher.exe** from the cooltools SDK.
 
+### At Commands
 You can also follow basic AT commands to check if the board is functioning
 
-Here's the markdown table for the AT commands:
+Here's the markdown table for the AT commands:<br>
 
 | Command     | Description               |
 |:------------|:--------------------------|
